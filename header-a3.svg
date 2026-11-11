@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 842 1191" width="100%" height="100%">
+  <defs>
+    <!-- Gradasi Background: Pink Muda Pastel ke Biru Muda -->
+    <linearGradient id="pastelGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ffb6c1" /> <!-- Pink Muda Pastel -->
+      <stop offset="50%" stop-color="#ffd1dc" /> <!-- Transisi Light Pink -->
+      <stop offset="100%" stop-color="#b0e0e6" /> <!-- Biru Muda -->
+    </linearGradient>
+
+    <!-- Efek Bayangan Teks -->
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="4" stdDeviation="4" flood-color="#000000" flood-opacity="0.25" />
+    </filter>
+  </defs>
+
+  <!-- Latar Belakang Ukuran A3 dengan Sudut Melengkung -->
+  <rect width="842" height="1191" rx="30" ry="30" fill="url(#pastelGrad)" />
+
+  <!-- Elemen Dekoratif Background (Opsional) -->
+  <circle cx="150" cy="150" r="180" fill="#ffffff" opacity="0.15" />
+  <circle cx="700" cy="1050" r="220" fill="#ffffff" opacity="0.15" />
+
+  <!-- Tulisan di Atas: "Founder + CTO" -->
+  <text x="421" y="180" font-family="-apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Roboto, Helvetica, Arial, sans-serif" font-size="52" font-weight="800" fill="#ffffff" text-anchor="middle" filter="url(#shadow)" letter-spacing="3">
+    FOUNDER + CTO
+  </text>
+
+  <!-- Foto / Logo Anda di Bawah Tulisan (Proporsional di Kanvas A3) -->
+  <!-- Ganti URL href dengan link raw gambar/logo Anda di GitHub -->
+  
+</svg>

@@ -1,0 +1,37 @@
+<svg width="1000" height="260" viewBox="0 0 1000 260" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="pastelBg" x1="0" y1="0" x2="1000" y2="260" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffb3c6" />
+      <stop offset="1" stop-color="#90e0ef" />
+    </linearGradient>
+  </defs>
+
+  <style>
+    .fade { opacity: 0; animation: fadeUp 0.9s ease forwards; }
+    .d1 { animation-delay: 0.2s; }
+    .d2 { animation-delay: 0.7s; }
+    .d3 { animation-delay: 1.2s; }
+    @keyframes fadeUp {
+      from { opacity: 0; transform: translateY(14px); }
+      to   { opacity: 1; transform: translateY(0); }
+    }
+    .float1 { animation: float 6s ease-in-out infinite; }
+    .float2 { animation: float 8s ease-in-out infinite reverse; }
+    @keyframes float {
+      0%, 100% { transform: translateY(0); }
+      50%      { transform: translateY(-14px); }
+    }
+    .name { font: 800 44px 'Segoe UI', Helvetica, Arial, sans-serif; letter-spacing: 1.5px; }
+    .role { font: 600 24px 'Segoe UI', Helvetica, Arial, sans-serif; }
+  </style>
+
+  <rect width="1000" height="260" rx="20" fill="url(#pastelBg)" />
+
+  <circle class="float1" cx="880" cy="60" r="70" fill="#ffffff" fill-opacity="0.2" />
+  <circle class="float2" cx="760" cy="210" r="45" fill="#ffffff" fill-opacity="0.25" />
+  <circle class="float1" cx="120" cy="230" r="30" fill="#ffffff" fill-opacity="0.2" />
+
+  <text class="name fade d1" x="60" y="115" fill="#2d3748">M.LIE ULIN NUHA</text>
+  <rect class="fade d2" x="60" y="135" width="150" height="5" rx="2.5" fill="#ffffff" />
+  <text class="role fade d3" x="60" y="185" fill="#4a5568">Solutions Architect</text>
+</svg>

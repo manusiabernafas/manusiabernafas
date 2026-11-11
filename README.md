@@ -1,4 +1,6 @@
-https://raw.githubusercontent.com/manusiabernafas/manusiabernafas/refs/heads/main/header.svg
+<p align="center">
+  <img src="https://raw.githubusercontent.com/manusiabernafas/manusiabernafas/refs/heads/main/header.svg" alt="GitHub Header" width="100%" />
+</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/manusiabernafas/manusiabernafas/gitascii/profiles/default/dark.svg">

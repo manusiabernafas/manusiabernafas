@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 200" width="100%" height="100%">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 130" width="100%" height="100%">
   <defs>
     <!-- Gradasi Background: Pink Muda Pastel ke Biru Muda -->
     <linearGradient id="pastelGrad" x1="0%" y1="0%" x2="100%" y2="100%">
@@ -14,25 +14,19 @@
   </defs>
 
   <!-- Latar Belakang Landscape Ramping dengan Sudut Melengkung -->
-  <rect width="800" height="200" rx="14" ry="14" fill="url(#pastelGrad)" />
+  <rect width="800" height="130" rx="14" ry="14" fill="url(#pastelGrad)" />
 
   <!-- Elemen Dekoratif Background Tipis -->
-  <circle cx="70" cy="40" r="50" fill="#ffffff" opacity="0.15" />
-  <circle cx="730" cy="160" r="60" fill="#ffffff" opacity="0.15" />
+  <circle cx="70" cy="30" r="40" fill="#ffffff" opacity="0.15" />
+  <circle cx="730" cy="100" r="50" fill="#ffffff" opacity="0.15" />
 
   <!-- Baris Teks Utama -->
-  <text x="400" y="70" font-family="&#39;Impact&#39;, &#39;Arial Black&#39;, &#39;Comic Sans MS&#39;, sans-serif" font-size="24" font-weight="bold" fill="#ffffff" text-anchor="middle" filter="url(#shadow)" letter-spacing="2">
+  <text x="400" y="52" font-family="&#39;Impact&#39;, &#39;Arial Black&#39;, &#39;Comic Sans MS&#39;, sans-serif" font-size="24" font-weight="bold" fill="#ffffff" text-anchor="middle" filter="url(#shadow)" letter-spacing="2">
     ⚡ FOUNDER & CTO | BUILDER & TECH ENTHUSIAST ⚡
   </text>
 
   <!-- Baris Teks Kedua -->
-  <text x="400" y="98" font-family="&#39;Trebuchet MS&#39;, &#39;Arial&#39;, sans-serif" font-size="13" font-weight="bold" fill="#ffffff" text-anchor="middle" opacity="0.95" letter-spacing="0.8">
+  <text x="400" y="82" font-family="&#39;Trebuchet MS&#39;, &#39;Arial&#39;, sans-serif" font-size="13" font-weight="bold" fill="#ffffff" text-anchor="middle" opacity="0.95" letter-spacing="0.8">
     Exploring AI Agents, Web3, Data Analysis & Digital Solutions
   </text>
-
-  <!-- Foto Kiri: Lvara -->
-  
-
-  <!-- Foto Kanan: Awshop -->
-  
 </svg>

@@ -19,7 +19,13 @@ I'm an Information Systems student passionate about software development, data a
 </div>
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/just.lie) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/m-lie-ulin-nuha-607601320) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/awshopxyx) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:liequenzoekamailani@gmail.com) 
+
+<p align="center">
+  <a href="https://instagram.com/just.lie"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"></a>
+  <a href="https://linkedin.com/in/m-lie-ulin-nuha-607601320"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://pinterest.com/awshopxyx"><img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white" alt="Pinterest"></a>
+  <a href="mailto:liequenzoekamailani@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"></a>
+</p>
 
 
 

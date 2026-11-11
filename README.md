@@ -1,4 +1,4 @@
-Hi there 
+https://raw.githubusercontent.com/manusiabernafas/manusiabernafas/refs/heads/main/header.svg
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/manusiabernafas/manusiabernafas/gitascii/profiles/default/dark.svg">

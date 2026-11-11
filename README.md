@@ -6,7 +6,7 @@
 I'm an Information Systems student passionate about software development, data analysis, Web3, and AI agent automation. Aside from academics, I lead a faculty communication department (Depkominfo) and run digital ventures like Awshopedia and Lvara.
 
 <p align="center">
-  <img src="./founder-cto-badge.svg" alt="Founder & CTO Badge" width="600px"/>
+  <img src="./header-a3.svg" alt="Founder & CTO Badge" width="600px"/>
 </p>
 
 ## 🌐 Socials:

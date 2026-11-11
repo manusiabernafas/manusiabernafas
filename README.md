@@ -5,9 +5,18 @@
 # 💫 About Me:
 I'm an Information Systems student passionate about software development, data analysis, Web3, and AI agent automation. Aside from academics, I lead a faculty communication department (Depkominfo) and run digital ventures like Awshopedia and Lvara.
 
-<p align="center">
-  <img src="./header-a3.svg" alt="Founder & CTO Badge" width="600px"/>
-</p>
+<div align="center" style="background: linear-gradient(135deg, #ffb6c1 0%, #b0e0e6 100%); padding: 30px; border-radius: 20px;">
+  
+  <h2 style="color: #ffffff; font-family: sans-serif; text-shadow: 0px 3px 6px rgba(0,0,0,0.2); letter-spacing: 2px; margin-bottom: 20px;">
+    🚀 FOUNDER + CTO
+  </h2>
+
+  <p>
+    <img src="https://i.postimg.cc/85B8LXhT/Chat-GPT-Image-Jun-24-2026-11-09-09-PM-removebg-preview.png" width="300px" alt="Lvara" style="margin-right: 15px; border-radius: 12px;" />
+    <img src="https://i.postimg.cc/6pDFgxch/Background-Gradient-AI-untuk-Logo-Chibi-(27-x-27-cm)-20260817-090746-0000-(3).png" width="300px" alt="Awshop" style="border-radius: 12px;" />
+  </p>
+
+</div>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/just.lie) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/m-lie-ulin-nuha-607601320) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/awshopxyx) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:liequenzoekamailani@gmail.com) 

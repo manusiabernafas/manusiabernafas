@@ -18,6 +18,10 @@ I'm an Information Systems student passionate about software development, data a
 
 </div>
 
+<p align="center">
+  <img src="./header-a3.svg" alt="Header Badge" width="100%"/>
+</p>
+
 ## 🌐 Socials:
 
 <p align="center">
